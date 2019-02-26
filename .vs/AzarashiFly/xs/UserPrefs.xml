@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{1C3C9C1F-4595-6884-5E05-4D6754D3707F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FlappyBaseAssets/Scripts/ScrollObject.cs">
+    <Files>
+      <File FileName="Assets/FlappyBaseAssets/Scripts/ScrollObject.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AzarashiFly" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FlappyBaseAssets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="ScrollObject.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
