@@ -1,7 +1,11 @@
 ﻿<Properties StartupConfiguration="{1C3C9C1F-4595-6884-5E05-4D6754D3707F}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FlappyBaseAssets/Scripts/ScrollObject.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FlappyBaseAssets/Scripts/ClearTrigger.cs">
     <Files>
-      <File FileName="Assets/FlappyBaseAssets/Scripts/ScrollObject.cs" Line="1" Column="1" />
+      <File FileName="Assets/FlappyBaseAssets/Scripts/ScrollObject.cs" Line="21" Column="7" />
+      <File FileName="Assets/FlappyBaseAssets/Scripts/AzarashiController.cs" Line="102" Column="36" />
+      <File FileName="Assets/FlappyBaseAssets/Scripts/Block.cs" Line="17" Column="24" />
+      <File FileName="Assets/FlappyBaseAssets/Scripts/GameController.cs" Line="99" Column="17" />
+      <File FileName="Assets/FlappyBaseAssets/Scripts/ClearTrigger.cs" Line="7" Column="18" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +14,7 @@
             <Node name="Assets" expanded="True">
               <Node name="FlappyBaseAssets" expanded="True">
                 <Node name="Scripts" expanded="True">
-                  <Node name="ScrollObject.cs" selected="True" />
+                  <Node name="ClearTrigger.cs" selected="True" />
                 </Node>
               </Node>
             </Node>

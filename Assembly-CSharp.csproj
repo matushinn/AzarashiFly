@@ -63,6 +63,10 @@
   <ItemGroup>
     <Compile Include="Assets\FlappyBaseAssets\CameraEffect\ClashCamera.cs" />
     <Compile Include="Assets\FlappyBaseAssets\CameraEffect\FlashEffect.cs" />
+    <Compile Include="Assets\FlappyBaseAssets\Scripts\AzarashiController.cs" />
+    <Compile Include="Assets\FlappyBaseAssets\Scripts\Block.cs" />
+    <Compile Include="Assets\FlappyBaseAssets\Scripts\ClearTrigger.cs" />
+    <Compile Include="Assets\FlappyBaseAssets\Scripts\GameController.cs" />
     <Compile Include="Assets\FlappyBaseAssets\Scripts\ScrollObject.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>/Users/ooeshoutarou/Programming Bible-Unity/AzarashiFly/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
